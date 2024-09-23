@@ -1,4 +1,4 @@
-#Superstore-data-analysis
+Superstore-data-analysis
 
 The Superstore dataset provides a treasure trove of information about sales performance across various product categories, regions, and customer segments. By analyzing this data, we can gain valuable insights to help Superstore optimize its strategies and boost profitability.
 
